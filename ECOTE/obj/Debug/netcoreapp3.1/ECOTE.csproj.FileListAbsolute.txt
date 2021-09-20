@@ -1,0 +1,15 @@
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\bin\Debug\netcoreapp3.1\snippet1.cs
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\bin\Debug\netcoreapp3.1\snippet2.cs
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\bin\Debug\netcoreapp3.1\snippet3.cs
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\bin\Debug\netcoreapp3.1\ECOTE.exe
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\bin\Debug\netcoreapp3.1\ECOTE.deps.json
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\bin\Debug\netcoreapp3.1\ECOTE.runtimeconfig.json
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\bin\Debug\netcoreapp3.1\ECOTE.runtimeconfig.dev.json
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\bin\Debug\netcoreapp3.1\ECOTE.dll
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\bin\Debug\netcoreapp3.1\ECOTE.pdb
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\obj\Debug\netcoreapp3.1\ECOTE.AssemblyInfoInputs.cache
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\obj\Debug\netcoreapp3.1\ECOTE.AssemblyInfo.cs
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\obj\Debug\netcoreapp3.1\ECOTE.csproj.CoreCompileInputs.cache
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\obj\Debug\netcoreapp3.1\ECOTE.dll
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\obj\Debug\netcoreapp3.1\ECOTE.pdb
+D:\Work\WUT\Mazen Ibrahim\ECOTE\ECOTE\obj\Debug\netcoreapp3.1\ECOTE.genruntimeconfig.cache

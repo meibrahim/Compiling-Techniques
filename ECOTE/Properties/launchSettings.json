@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ECOTE": {
+      "commandName": "Project",
+      "commandLineArgs": "snippet1.cs"
+    }
+  }
+}
